@@ -11,7 +11,7 @@ redirect_from:
 I'm a fresh student from [School of Physics](https://phy.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), currently enrolled in the 24nd Zhuoyue Class. 
 
 
-
+I have an account in [知乎](https://www.zhihu.com) called [小摆鼠](https://www.zhihu.com/people/10-23-71-33). I have written some articles on Physics, Pingpong and go.
 <!--I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.-->
 
 <!--You can find my CV here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).-->
